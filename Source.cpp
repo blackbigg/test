@@ -16,7 +16,9 @@ void GEGAME()
 
 void main()
 {
-	Blackbigg();
+
 	GEGAME();
+	printf("wtf");
+	Blackbigg();
 	system("pause");
 }
