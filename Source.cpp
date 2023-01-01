@@ -3,7 +3,7 @@
 
 void Blackbigg()
 {
-	printf("Hi iam bigg");
+	printf("not at all");
 }
 
 
