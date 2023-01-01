@@ -11,5 +11,6 @@ void GEGAME()
 void main()
 {
 	GEGAME();
+	printf("wtf");
 	system("pause");
 }
